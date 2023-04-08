@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "upbeat-beach-383103",
+  "private_key_id": "d65b2c34661a09bc125a582a21b481817a43ebae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDs5i9cEmsptY4l\nX6RFB/oVZ6NjZFEZ/DAH+8d/qP03F1kDwSVSR0Iho+Rv4PISFVAopcarZAcKfj+y\nduM4sQz1SbMJH9n2H3mQs6q15UaP/6z0C+GVsFZmCT9Wv+FsWN1GYgbysQKD1sNE\n18UmKaT41QDM9PyTkXf5R5am2uQzCUf1go7vS17O2+raWVqTpcSL9qF+eu501VBv\n+dfz31HsMe0rY1mdamaov3nh5SsYVLO9JW0WuPXsD4gC4NXV9owN4SHcMQkymfyT\nAEnz5XZbRx75S4mrhxKHr9GiHmldxvfBWv7UjhOYSJcLWHLIjr2hrFLHC8L9ay2T\nUA5mWNIVAgMBAAECggEACdSvRyjt8NAXB6fenjHieh59raNvlnCuoUvl3Uhq61rZ\nCgXrGH9/PI6Sf8Cgn5tX0Ltv1e9hXEcLFTijXWpngAsy1nK9SSdbFHZjrPUj2Pzw\nIxeojqZ2nkIWaUyucw3x3Mrt5QbKvdrc6gaEOyGxtfl/LBR+2MbcH+h7HqB7gNEt\nabwUNhX8VtGssNcOfcTbYiXGobZeWGUwYDo2dapHro4VUdqwaej+wjSiR6Na3yaV\nLhg8diZRH+mY6Xypf/kkDwhPJ8GkfHhORfRtAULYrPRG4ebfoi7anGbzLgKht7fI\nY+0G8riITrI3fD297m+GTzItJ5dB/HWYUhp4p0MmPwKBgQD4YIjV8Src/agp/xR7\ngTt+Turp/MfojuaZ+6c0qtTqagDBEpun5KOJ4NyI2JUsQ8WfioLe3jR6gjBdU7x8\nYQ+BsScmSogs2m/2ydt/OvZNE+a6TFzF+sDqEB39P4RPkwChQNlh0Nu51+BMUALu\nQFZHERw8QCa64pXCtBu/Nc2PuwKBgQD0K3hOQQBSWozMpfYgmJriiMBrjur25mLu\nV4R0kWdweSFxtID9pgGmoWQFpTnk5Z7y8kxcXN9fVaIQ5C1hZCQNy4sbwxHrq5by\nzrSenkvFXXmDs5CeHScJiOJDQrdjKRDrRKydn4RtCkiiOsV7iF9jxY8zevmsKOKQ\nBWg2GG6AbwKBgQCkWgxxtQGt9dMe5wFAsEUT0Vi0uGX3xwdkgRclTJ1S+A3DtHJ3\naF2m0LpdeyNKhRXx+g+bNeH35snmF5CzpO5D3VuQhOUS+P/5h5zM1dFBM5gLUphZ\nERIyT7Pobe05UoaqLWUqyq96jBSJqrAlw0DUCchrPe/i3ihHDDMIFawOHQKBgQCs\n/Z9e0e7Iah8XXv3iWjxiA0FQ8xDFnLS66IaPj/UZWri3NoutKdBBnlafKVC7O3RB\n7Cjtx176zFDmZsNAHRLuMyd7o9kuf4OSw6B0QPKuAmv1Q2NSopTlzHWB8eK7/nxe\nM2mYw0uvdXnAdqMzworSxUWP07DQqKbcIviSWvzvQQKBgDenfXiPsAjZxMTn7jDV\nDRRY0mJrNmOfaHo060jIEnTL8PBvVBk89OIa/fAVugQjFF27FAPTgmUYo21GTXJA\nm88uGKMcPfkBt8GDGOt/5nCIdrxAxYe7Nh3uONcNpFhQyzSt3d8v2601qygO+oAn\nBgOBWrzRic5jf8Iu0bbtOFmF\n-----END PRIVATE KEY-----\n",
+  "client_email": "meu-bot-de-audio@upbeat-beach-383103.iam.gserviceaccount.com",
+  "client_id": "116348888622165052487",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meu-bot-de-audio%40upbeat-beach-383103.iam.gserviceaccount.com"
+}
